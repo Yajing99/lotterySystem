@@ -1,0 +1,28 @@
+{
+  "success" : true,
+  "lotteryP" : [{
+    "name" : "安东尼",
+    "phonenumber" : "13324091988"
+  },{
+    "name" : "布鲁斯",
+    "phonenumber" : "13324091972"
+  },{
+    "name" : "巴泽尔",
+    "phonenumber" : "13379851942"
+  },{
+    "name" : "艾伦",
+    "phonenumber" : "13324091900"
+  },{
+    "name" : "阿道夫",
+    "phonenumber" : "13324091911"
+  },{
+    "name" : "亚当",
+    "phonenumber" : "13324091922"
+  },{
+    "name" : "艾狄生",
+    "phonenumber" : "13324091933"
+  },{
+    "name" : "班森",
+    "phonenumber" : "13324091944"
+  }]
+}
