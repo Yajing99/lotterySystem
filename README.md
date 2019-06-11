@@ -12,5 +12,6 @@
 
 
 6月11日更新：
-刚刚用原生node实现了从MySQL数据库表中得到数据并返回给前端的ajax接口接收，很成功。我只实现了前端接收数据代码在rouserver.js中。
+刚刚用原生node实现了从MySQL数据库表中得到数据并返回给前端的ajax接口接收。
+我只实现了前端接收数据代码在rouserver.js中。
 前端接收ajax接口分别用url:3000/login和url:3000/lotteryPeople即可。
