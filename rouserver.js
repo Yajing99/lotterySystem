@@ -9,13 +9,12 @@ http.createServer(function(request, response) {
   var connection = mysql.createConnection({
     host : "localhost",
     post : 3000,
-    user : "root",
+    user : "***",
     password : "***",
-    database : "lottery"
+    database : "***"
   });
 
   var pathname = url.parse(request.url).pathname;
-  console.log("222"+pathname);
   var ext = pathname.match(/(\.[^\.]+|)$/)[0]; //取得后缀名
     switch (ext) {
       case ".css":
