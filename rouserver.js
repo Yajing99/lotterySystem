@@ -10,7 +10,7 @@ http.createServer(function(request, response) {
     host : "localhost",
     post : 3000,
     user : "root",
-    password : "*ZSJzsj83838383",
+    password : "***",
     database : "lottery"
   });
 
