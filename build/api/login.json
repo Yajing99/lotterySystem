@@ -1,0 +1,14 @@
+{
+	"success" : true,
+	"information" : [
+    {
+    	"account" : "guanliyuan",
+    	"password" : "guanliyuan",
+        "data" : 1
+    },{
+    	"account" : "renshixitong",
+    	"password" : "renshixitong",
+        "data" : 2
+    }
+	]
+}
